@@ -1,0 +1,25 @@
+{
+  "api": {
+    "name": "VpnDetectorPlugin",
+    "slug": "vpndetectorplugin",
+    "docs": "",
+    "tags": [],
+    "methods": [
+      {
+        "name": "isVpnActive",
+        "signature": "() => Promise<{ value: boolean; }>",
+        "parameters": [],
+        "returns": "Promise<{ value: boolean; }>",
+        "tags": [],
+        "docs": "",
+        "complexTypes": [],
+        "slug": "isvpnactive"
+      }
+    ],
+    "properties": []
+  },
+  "interfaces": [],
+  "enums": [],
+  "typeAliases": [],
+  "pluginConfigs": []
+}
